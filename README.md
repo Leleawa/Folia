@@ -1,8 +1,13 @@
 <div align=center>
     <img src="./folia.png">
     <br /><br />
-    <p>Fork of <a href="https://github.com/PaperMC/Paper">Paper</a> which adds regionised multithreading to the dedicated server.</p>
+    <p>Fork of <a href="https://github.com/PaperMC/Folia">Folia</a> for LBLT Server.</p>
 </div>
+
+## Folia provided
+
+
+
 
 ## Overview
 
